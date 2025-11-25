@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    puts("ee");
-
+    printf("oo\n");
 
     return 0;
 }
